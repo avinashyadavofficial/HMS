@@ -45,10 +45,6 @@ Follow these steps to get the Hospital Management System up and running on your 
 - **Gallery:** Displays images showcasing the hospital facilities.
 - **Contact Us:** Users can reach out to the hospital through a contact form.
 
-## Screenshots
-![Home Page](assets/images/screenshot1.png)
-![Login Page](assets/images/screenshot2.png)
-![Contact Form](assets/images/screenshot3.png)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
